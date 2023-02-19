@@ -69,7 +69,7 @@ h2 {
 .location_portal:hover {
   background-color: #d5966c;
   cursor: pointer;
-  transition-duration: 1s;
+  transition-duration: 0.5s;
 }
 /* .text_cube > p {
   font-family: Outfit;
@@ -221,7 +221,7 @@ footer * {
 
 .logos svg:hover path {
   fill: #d5966c;
-  transition-duration: 1s;
+  transition-duration: 0.5s;
 }
 
 .location-footer {
